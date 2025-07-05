@@ -5,6 +5,6 @@ where I build systems that actually help people — not just through code, but b
 
 - Working at [common computer](https://comcom.ai/)
 - Backend-heavy, but full-stack curious
-- Work with `.ts`, `.js`, `.py` (and ❤️ `.java`)
+- Work with `.ts`, `.js`, `.py`, `.java` (and ❤️ `.ts`)
 - Currently learning Agent framework (like LangChain)
 - Reach me on [LinkedIn](https://www.linkedin.com/in/ajy9844) or [email](mailto:ajy09844@gmail.com)
