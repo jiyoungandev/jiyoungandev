@@ -3,7 +3,7 @@
 I'm a software engineer working at an AI & Blockchain startup,<br>
 where I build systems that actually help people — not just through code, but by solving real problems.
 
-- Working at [common computer](https://comcom.ai/)
+- Working at [Common Computer](https://comcom.ai/)
 - Backend-heavy, but full-stack curious
 - Work with `.ts`, `.js`, `.py`, `.java` (and ❤️ `.ts`)
 - Currently learning Agent framework (like LangChain)
