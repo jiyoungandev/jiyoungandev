@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer working at an AI & Blockchain startup,<br>
+I'm a software engineer working at an Web3 & AI startup,<br>
 where I build systems that actually help people — not just through code, but by solving real problems.
 
 - Working at [Common Computer](https://comcom.ai/)
